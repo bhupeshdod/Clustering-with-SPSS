@@ -1,34 +1,32 @@
 # Clustering-with-SPSS
-Created “best” segmentation schema for small lawn and Garden (L&amp;G) firm which is interested in understanding the landscape of consumers in the L&amp;G market based on a host of demographic, behavioral and psychographic variables.
 
-**Methodology**
-1.	Variables for Segmentation:
-•	Clustering Variables: L&G knowledge (Q20), interest in L&G activities (Q21), attitudes towards L&G care (Q22), reasons for growing plants (Q24), and maintaining a lawn (Q26).
-•	Profiling Variables: Age (Q3), Gender (Q4), Marital Status (Q40), Education (Q41).
+This repository contains the analysis and code for a Lawn and Garden (L&G) market segmentation project. The aim of this project is to provide a small L&G firm with a comprehensive understanding of the consumer landscape in the L&G market. This is achieved through clustering and profiling based on various demographic, behavioral, and psychographic variables.
 
-2.	Clustering Techniques:
-•	Hierarchical Clustering: Used to estimate the optimal number of clusters, identifying a significant jump at 5 clusters.
-•	K-means Clustering: Applied to finely segment the data into these 5 clusters, focusing on optimizing groupings.
+## Project Overview
+The project uses a combination of hierarchical and non-hierarchical clustering methods to identify the most relevant consumer segments for effective marketing strategies. The primary focus is on understanding consumer behaviors, attitudes, and demographic profiles related to lawn and gardening activities.
 
-**Key Findings**
-•	Target Segment (Cluster 5):
-•	Demographics: Predominantly male (57.9%), married (50%), and with bachelor’s degrees.
-•	Age Group: Centred around 36 years.
-•	L&G Engagement: High levels of knowledge, interest, and engagement in lawn and gardening activities.
+### Clustering Variables
+- **L&G Knowledge** (Q20)
+- **Interest in L&G Activities** (Q21)
+- **Attitudes towards L&G Care** (Q22)
+- **Reasons for Growing Plants** (Q24)
+- **Maintaining a Lawn** (Q26)
 
-**Recommendations for the L&G Firm**
-1.	Focus on Married Men Aged Around 36: This group shows the highest engagement and interest in L&G activities.
-2.	Tailored Marketing Strategy:
-•	Develop messaging that resonates with their lifestyle, interests, and level of L&G expertise.
-•	Offer services and products that align with their primary reasons for engaging in L&G activities.
-3.	Engagement Channels:
-•	Utilize platforms frequented by this demographic for marketing and engagement.
-•	Explore partnerships or sponsorships with entities that cater to this group’s interests.
+### Profiling Variables
+- **Age** (Q3)
+- **Gender** (Q4)
+- **Marital Status** (Q40)
+- **Education** (Q41)
 
-**Actionable Insights**
-1.	Content Strategy: Create educational and engaging content that appeals to a knowledgeable, interested audience.
-2.	Service Design: Develop services that cater specifically to the needs and motivations of this segment, focusing on the aspects they value most in L&G.
-3.	Feedback and Adaptation: Regularly gather consumer feedback to refine and adapt the strategies to evolving market trends and preferences.
-Conclusion
-This data-driven segmentation reveals a significant opportunity to target a specific, engaged segment within the L&G market. By focusing marketing efforts on married men around the age of 34 with a strong interest in L&G, the firm can more effectively reach and serve a key portion of their potential customer base.
+## Methodology
+1. **Data Preparation**: Conversion of all variables to a scaled (continuous) format for consistency in analysis.
+2. **Hierarchical Clustering**: Utilized to determine the optimal number of clusters, employing Ward’s method.
+3. **K-means Clustering**: Applied post hierarchical analysis to fine-tune and optimize the segment partitioning.
 
+### Key Findings
+- The analysis identified **5 distinct clusters**.
+- **Cluster 5** was identified as the most relevant for the L&G firm, characterized by high levels of engagement and interest in L&G activities.
+- Demographic analysis of Cluster 5 revealed a significant presence of married men, around the age of 36, with a bachelor’s degree.
+
+## Target Marketing Strategy
+Based on the analysis, the primary marketing strategy is focused on engaging married men in their mid-30s with a bachelor’s degree who show a high interest in L&G activities.
