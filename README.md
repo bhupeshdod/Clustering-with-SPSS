@@ -32,11 +32,8 @@ The project uses a combination of hierarchical and non-hierarchical clustering m
 Based on the analysis, the primary marketing strategy is focused on engaging married men in their mid-30s with a bachelor’s degree who show a high interest in L&G activities.
 
 <p float="left">
-  <img src="![image](https://github.com/bhupeshdod/Clustering-with-SPSS/assets/141383468/0175965c-3d75-407e-aea8-eaa6cf4f9822)" width="200" />
-  <img src="![image](https://github.com/bhupeshdod/Clustering-with-SPSS/assets/141383468/ea9fc52c-b512-4e26-994e-53fb13710ab5)" width="200" /> 
-</p>
-
-<p float="left">
-  <img src="![image](https://github.com/bhupeshdod/Clustering-with-SPSS/assets/141383468/0ad7a439-e62f-455f-9e3d-2909eb9e282f)" width="200" />
-  <img src="![image](https://github.com/bhupeshdod/Clustering-with-SPSS/assets/141383468/5c0f06e1-9057-4543-bb2d-2de2642e6a0c)" width="200" />
+  <img src="/Analysis images/Gender Analysis.png" width="200" />
+  <img src="/Analysis images/Marital Status Analysis.png" width="200" /> 
+  <img src="/Analysis images/Age Analysis.png" width="200" />
+  <img src="/Analysis images/Education Analysis.png" width="200" />
 </p>
