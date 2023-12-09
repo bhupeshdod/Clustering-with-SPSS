@@ -32,8 +32,8 @@ The project uses a combination of hierarchical and non-hierarchical clustering m
 Based on the analysis, the primary marketing strategy is focused on engaging married men in their mid-30s with a bachelor’s degree who show a high interest in L&G activities.
 
 <p float="left">
-  <img src="/Analysis images/Gender Analysis.png" width="600" />
-  <img src="/Analysis images/Marital Status Analysis.png" width="600" /> 
-  <img src="/Analysis images/Age Analysis.png" width="600" />
-  <img src="/Analysis images/Education Analysis.png" width="600" />
+  <img src="/Analysis images/Gender Analysis.png" width="400" />
+  <img src="/Analysis images/Marital Status Analysis.png" width="400" /> 
+  <img src="/Analysis images/Age Analysis.png" width="400" />
+  <img src="/Analysis images/Education Analysis.png" width="400" />
 </p>
